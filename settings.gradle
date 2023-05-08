@@ -1,0 +1,5 @@
+rootProject.name = 'IDEA-317477'
+
+include 'test-java11'
+include 'test-java17'
+
