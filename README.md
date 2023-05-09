@@ -88,6 +88,25 @@ Non-Bundled Plugins:
 Kotlin: 231-1.8.21-IJ8770.65
 ````
 
+Gradle version:
+
+````
+./gradlew --version
+
+------------------------------------------------------------
+Gradle 8.1.1
+------------------------------------------------------------
+
+Build time:   2023-04-21 12:31:26 UTC
+Revision:     1cf537a851c635c364a4214885f8b9798051175b
+
+Kotlin:       1.8.10
+Groovy:       3.0.15
+Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
+JVM:          17.0.7 (Azul Systems, Inc. 17.0.7+7-LTS)
+OS:           Linux 5.15.90.1-microsoft-standard-WSL2 amd64
+````
+
 Relevant parts from IDEA log:
 
 ````
